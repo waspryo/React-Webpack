@@ -1,0 +1,11 @@
+{
+  "name": "react_webpack_starter",
+  "version": "1.0.0",
+  "description": "Boilerplate for React Apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryo",
+  "license": "MIT"
+}
